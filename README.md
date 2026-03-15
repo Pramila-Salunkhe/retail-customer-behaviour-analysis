@@ -255,7 +255,7 @@ This project is licensed under the MIT License.
 
 It was independently developed using a public retail dataset, taking inspiration
 from [Amlan Mohanty's data analytics portfolio project](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI).
-Original work © 2025 Amlan Mohanty. Modifications and extensions © 2026 Your Name.
+Original work © 2025 Amlan Mohanty. Modifications and extensions © 2026 Pramila Salunkhe.
 
 See the [LICENSE](LICENSE) file for full details.
 ---
